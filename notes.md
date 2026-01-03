@@ -1,0 +1,268 @@
+# Operating System
+
+![image info](./IMG/syllabus.jpg)
+
+```
+Reference Books -: 
+1- OS BY GALVIN
+2- MODERN OS BY AS TENENBAUM
+3- OS BY WILLIAM STALLINGS
+```
+
+## Basics of Operating System
+- Operating System is a software (Set of programs)
+- Primary Goal is Easy to Use (convenience)
+- Secondary Goal is efficiency
+
+![image info](./IMG/IMG1.jpg)
+
+System call is a request made by the user program to the Operating system to get some service, and for different types of services we have different type of system calls
+
+For ex-: in PrintF function there is a write() system call written in the function which is mentioned in the header file
+
+These system calls are written by using embedded programming
+
+As a programmer we don't need to know how write() system call is implemented and we can focus more on programming logic, this is called Abstraction
+
+
+![image info](./OS%20NOTES/Page%201,%20object%201.jpg)
+![image info](./OS%20NOTES/Page%202,%20object%205.jpg)
+
+
+![image info](./IMG/img3.jpg)
+![image info](./IMG/img4.jpg)
+![image info](./IMG/img5.jpg)
+![image info](./IMG/img6.jpg)
+
+![image info](./IMG/img7.jpg)
+![image info](./IMG/img8.jpg)
+![image info](./IMG/img9.jpg)
+![image info](./IMG/img10.jpg)
+![image info](./IMG/img11.jpg)
+
+![image info](./IMG/img12.jpg)
+
+## Multi Core and Multitasking in nowadays OS
+[Read More about MultiCore and MultiTasking and HyperThreading here](./Articles/multitasking.md)
+
+
+
+
+
+## Process Management
+![image info](./OS%20NOTES/Page%203,%20object%208.jpg)
+![image info](./OS%20NOTES/Page%205,%20object%2011.jpg)
+![image info](./IMG/IMG_3620.jpeg)
+![image info](./IMG/IMG_3621.jpeg)
+![image info](./IMG/IMG_3622.jpeg)
+
+
+## Process State Diagram
+![image info](./OS%20NOTES/Page%205,%20object%2021.jpg)
+![image info](./IMG/IMG_3623.jpeg)
+![image info](./IMG/IMG_3624.jpeg)
+![image info](./IMG/IMG_3625.jpeg)
+![image info](./IMG/IMG_3626.jpeg)
+![image info](./IMG/IMG_3627.jpeg)
+![image info](./IMG/IMG_3628.jpeg)
+![image info](./IMG/IMG_3629.jpeg)
+![image info](./IMG/IMG_3630.jpeg)
+![image info](./IMG/IMG_3631.jpeg)
+![image info](./IMG/IMG_3632.jpeg)
+![image info](./IMG/IMG_3633.jpeg)
+![image info](./IMG/IMG_3634.jpeg)
+![image info](./IMG/IMG_3635.jpeg)
+
+### Question - Mentioned Above
+![image info](./IMG/question_img.jpg)
+
+##
+![image info](./IMG/IMG_3636.jpeg)
+![image info](./IMG/IMG_3637.jpeg)
+
+### CPU Scheduling
+![image info](./IMG/IMG_3638.jpeg)
+![image info](./IMG/IMG_3639.jpeg)
+![image info](./IMG/IMG_3640.jpeg)
+![image info](./IMG/IMG_3641.jpeg)
+![image info](./IMG/IMG_3642.jpeg)
+![image info](./IMG/IMG_3643.jpeg)
+![image info](./IMG/IMG_3644.jpeg)
+![image info](./IMG/IMG_3645.jpeg)
+![image info](./IMG/IMG_3646.jpeg)
+![image info](./IMG/IMG_3647.jpeg)
+![image info](./IMG/IMG_3648.jpeg)
+
+
+
+
+
+![image info](./OS%20NOTES/Page%206,%20object%2014.jpg)
+![image info](./OS%20NOTES/Page%208,%20object%2020.jpg)
+![image info](./OS%20NOTES/Page%209,%20object%2023.jpg)
+![image info](./OS%20NOTES/Page%2010,%20object%2026.jpg)
+![image info](./OS%20NOTES/Page%2011,%20object%2029.jpg)
+
+#### Round Robin Scheduling
+![image info](./OS%20NOTES/Page%2012,%20object%2032.jpg)
+![image info](./OS%20NOTES/Page%2013,%20object%2036.jpg)
+
+![image info](./IMG/IMG_3649.jpeg)
+![image info](./IMG/IMG_3650.jpeg)
+![image info](./IMG/IMG_3651.jpeg)
+![image info](./IMG/IMG_3652.jpeg)
+![image info](./IMG/IMG_3653.jpeg)
+![image info](./IMG/IMG_3654.jpeg)
+![image info](./IMG/IMG_3655.jpeg)
+
+
+
+#### Longest Job First and L.R.T.F Algorithm
+![image info](./OS%20NOTES/Page%2014,%20object%2039.jpg)
+![image info](./OS%20NOTES/Page%2015,%20object%2042.jpg)
+
+#### CPU Time and I/O Time Concept
+![image info](./OS%20NOTES/Page%2016,%20object%2045.jpg)
+![image info](./IMG/IMG_3660.jpeg)
+![image info](./IMG/IMG_3661.jpeg)
+![image info](./IMG/IMG_3662.jpeg)  
+
+#### Question 5A 01:06:51
+![image info](./IMG/IMG_3663.jpeg)  
+
+
+#### Priority Based Scheduling
+![image info](./OS%20NOTES/Page%2017,%20object%2048.jpg)
+![image info](./IMG/IMG_3656.jpeg)
+![image info](./IMG/IMG_3657.jpeg)
+![image info](./IMG/IMG_3658.jpeg)
+![image info](./IMG/IMG_3659.jpeg)
+
+
+
+
+
+
+
+## Multi Programming 
+- Non - Preemptive - diag at 2a 21:35
+
+- Preemptive Multi Prog is known as Multi Tasking 
+
+
+
+
+
+
+
+
+
+![image info](./OS%20NOTES/Page%2028,%20object%2082.jpg)
+
+Monitors is not that important as there are no questions from that topic.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
