@@ -133,10 +133,62 @@ As a programmer we don't need to know how write() system call is implemented and
 
 #### Priority Based Scheduling
 ![image info](./OS%20NOTES/Page%2017,%20object%2048.jpg)
+![image info](./OS%20NOTES/Page%2018,%20object%2051.jpg)
 ![image info](./IMG/IMG_3656.jpeg)
 ![image info](./IMG/IMG_3657.jpeg)
 ![image info](./IMG/IMG_3658.jpeg)
 ![image info](./IMG/IMG_3659.jpeg)
+
+#### Multi Level Scheduling
+![image info](./OS%20NOTES/Page%2019,%20object%2054.jpg)
+![image info](./OS%20NOTES/Page%2020,%20object%2057.jpg)
+
+
+
+### Highest Response Ratio Next
+
+### Multi Level Queue Scheduling
+
+### Starvation (Multi level feedback queue scheduling)
+
+
+
+
+*** TABLE FOR ALL THE CPU SCHEDULING ALGORITHMS IN WHICH STARVATION IS POSSIBLE OR NOT, FIND IT IN LECTURE***
+
+### Synchronization
+
+
+
+
+
+
+
+
+
+
+ 
+![image info](./IMG/IMG_3669.jpeg)  
+![image info](./IMG/IMG_3670.jpeg)
+![image info](./IMG/IMG_3671.jpeg)
+![image info](./IMG/IMG_3672.jpeg)
+![image info](./IMG/IMG_3673.jpeg)
+![image info](./IMG/IMG_3674.jpeg)
+![image info](./IMG/IMG_3675.jpeg)
+![image info](./IMG/IMG_3676.jpeg)
+![image info](./IMG/IMG_3677.jpeg)
+![image info](./IMG/IMG_3678.jpeg)
+![image info](./IMG/IMG_3679.jpeg)
+![image info](./IMG/IMG_3680.jpeg)
+![image info](./IMG/IMG_3681.jpeg)
+![image info](./IMG/IMG_3682.jpeg)
+![image info](./IMG/IMG_3683.jpeg)
+![image info](./IMG/IMG_3684.jpeg)
+![image info](./IMG/IMG_3685.jpeg)
+![image info](./IMG/IMG_3686.jpeg)
+![image info](./IMG/IMG_3687.jpeg)
+![image info](./IMG/IMG_3688.jpeg)
+![image info](./IMG/IMG_3689.jpeg)
 
 
 
