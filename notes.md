@@ -189,6 +189,49 @@ As a programmer we don't need to know how write() system call is implemented and
 ![image info](./IMG/IMG_3687.jpeg)
 ![image info](./IMG/IMG_3688.jpeg)
 ![image info](./IMG/IMG_3689.jpeg)
+![image info](./IMG/IMG_3690.jpeg)
+![image info](./IMG/IMG_3691.jpeg)
+![image info](./IMG/IMG_3692.jpeg)
+![image info](./IMG/IMG_3693.jpeg)
+![image info](./IMG/IMG_3694.jpeg)
+![image info](./IMG/IMG_3695.jpeg)
+![image info](./IMG/IMG_3696.jpeg)
+![image info](./IMG/IMG_3697.jpeg)
+![image info](./IMG/IMG_3698.jpeg)
+![image info](./IMG/IMG_3699.jpeg)
+![image info](./IMG/IMG_3700.jpeg)
+![image info](./IMG/IMG_3701.jpeg)
+![image info](./IMG/IMG_3702.jpeg)
+![image info](./IMG/IMG_3703.jpeg)
+![image info](./IMG/IMG_3704.jpeg)
+![image info](./IMG/IMG_3705.jpeg)
+![image info](./IMG/IMG_3706.jpeg)
+![image info](./IMG/IMG_3707.jpeg)
+![image info](./IMG/IMG_3708.jpeg)
+![image info](./IMG/IMG_3709.jpeg)
+![image info](./IMG/IMG_3710.jpeg)
+![image info](./IMG/IMG_3711.jpeg)
+![image info](./IMG/IMG_3712.jpeg)
+![image info](./IMG/IMG_3713.jpeg)
+![image info](./IMG/IMG_3714.jpeg)
+![image info](./IMG/IMG_3715.jpeg)
+![image info](./IMG/IMG_3716.jpeg)
+![image info](./IMG/IMG_3717.jpeg)
+![image info](./IMG/IMG_3718.jpeg)
+![image info](./IMG/IMG_3719.jpeg)
+![image info](./IMG/IMG_3720.jpeg)
+![image info](./IMG/IMG_3721.jpeg)
+![image info](./IMG/IMG_3722.jpeg)
+![image info](./IMG/IMG_3723.jpeg)
+![image info](./IMG/IMG_3724.jpeg)
+
+
+
+
+
+
+
+
 
 
 
